@@ -6,7 +6,7 @@ _Criada durante a Jornada Rumo a Primeira Vaga organizada pela Python DevPro, co
 ### Aplicação desenvolvida em Python e Django para criação de questionários tipo Quiz com login do partipante e ranking dos melhores colocados na competição.  
   
   
-![Tela inicial](.\tela.gif)
+![](tela.gif)
   
 **Tecnologias utilizadas**: Python, Django, HTML, CSS, JS<br>
 **Versão**: 0.1
